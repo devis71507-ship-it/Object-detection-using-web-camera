@@ -102,7 +102,7 @@ else:
 
 ## Output
 
-<img width="713" height="592" alt="image" src="https://github.com/user-attachments/assets/34e88acc-8a85-4bd6-b283-a0e57b095f06" />
+<img width="766" height="615" alt="image" src="https://github.com/user-attachments/assets/29923796-88be-4aa8-8a0b-3ddc4aa1fcaa" />
 
 
 ## Result
